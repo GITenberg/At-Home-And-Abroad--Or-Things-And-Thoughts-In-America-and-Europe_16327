@@ -1,0 +1,44 @@
+_repo: At-Home-And-Abroad--Or-Things-And-Thoughts-In-America-and-Europe_16327
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fuller, Margaret
+    aliases:
+    - Ossoli, Margaret Fuller
+    - Fuller, Sara Margarita
+    - Fuller, S. Margaret (Sarah Margaret)
+    - Ossoli, Sara Margarita
+    birthdate: 1810
+    deathdate: 1850
+    gutenberg_agent_id: '2829'
+    url: http://www.gutenberg.org/2009/agents/2829
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Fuller
+  editor:
+    agent_name: Fuller, Arthur B. (Arthur Buckminster)
+    aliases:
+    - Fuller, A. Buckminster (Arthur Buckminster)
+    - Fuller, Arthur Buckminster
+    birthdate: 1822
+    deathdate: 1862
+    gutenberg_agent_id: '6625'
+    url: http://www.gutenberg.org/2009/agents/6625
+description: ''
+gutenberg_issued: '2005-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Italy -- History -- 1849-1870'
+- !lcsh 'Great Lakes (North America)'
+- !lcc 'G'
+- !lcsh 'Rome (Italy) -- History -- Revolution of 1848-1849'
+title: At Home And Abroad; Or, Things And Thoughts In America and Europe
+url: http://www.gutenberg.org/ebooks/16327
